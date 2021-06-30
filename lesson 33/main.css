@@ -1,3 +1,9 @@
+
+h1, h2{
+    background-color: yellow;
+    text-align: center;
+}
+
 body{
     margin: auto;
 }

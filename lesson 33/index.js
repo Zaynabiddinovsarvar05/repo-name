@@ -130,7 +130,7 @@ function awards(index) {
                  case 6:
                    return "GELIK"
                    case 7:
-                     return "ROLSE ROYS"
+                     return "ROLLS ROYS"
                       default:
                         return "Looser";
    }
